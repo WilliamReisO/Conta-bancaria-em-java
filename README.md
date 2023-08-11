@@ -2,7 +2,7 @@
 
 ##
 
-O projeto simula uma conta bancária simples. Ele permite que você crie uma conta bancária, faça depósitos e saques, transfira dinheiro entre contas e exclua contas. 
+O projeto simula uma conta bancária simples. Ele permite que você crie uma cadastre uma ou varias contas bancárias, faça depósitos e saques, transfira dinheiro entre contas e exclua contas. 
 
 Você pode fazer tudo isso usando um menu simples que aparece na tela.
 
